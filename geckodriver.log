@@ -1,0 +1,1073 @@
+1637689292189	geckodriver	INFO	Listening on 127.0.0.1:52415
+1637689293194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUwuic6"
+1637689293780	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUwuic6/search.json.mozlz4", (void 0)))
+1637689294620	Marionette	INFO	Listening on port 40327
+1637689294708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637691112865	geckodriver	INFO	Listening on 127.0.0.1:59333
+1637691112866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBUv8Cq"
+1637691113446	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBUv8Cq/search.json.mozlz4", (void 0)))
+1637691114271	Marionette	INFO	Listening on port 44835
+1637691114380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+1637691118033	Marionette	INFO	Stopped listening on port 44835
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Gdk-Message: 15:33:10.902: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1638307864156	geckodriver	INFO	Listening on 127.0.0.1:55479
+1638307865158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecQbChV"
+1638307865769	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecQbChV/search.json.mozlz4", (void 0)))
+1638307866621	Marionette	INFO	Listening on port 45047
+1638307866675	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638308399020	geckodriver	INFO	Listening on 127.0.0.1:50789
+1638308399021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileatqlyF"
+1638308399610	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileatqlyF/search.json.mozlz4", (void 0)))
+1638308400405	Marionette	INFO	Listening on port 45445
+1638308400440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+1638308519752	geckodriver	INFO	Listening on 127.0.0.1:44957
+1638308519753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevInr6o"
+1638308520323	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevInr6o/search.json.mozlz4", (void 0)))
+1638308521122	Marionette	INFO	Listening on port 39273
+1638308521168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+1638308574870	Marionette	INFO	Stopped listening on port 45047
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638308576226	Marionette	INFO	Stopped listening on port 45445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638308577603	Marionette	INFO	Stopped listening on port 39273
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638308582161	geckodriver	INFO	Listening on 127.0.0.1:38791
+1638308582164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileltfLwF"
+1638308582739	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileltfLwF/search.json.mozlz4", (void 0)))
+1638308583505	Marionette	INFO	Listening on port 41825
+1638308583583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+1638308748403	geckodriver	INFO	Listening on 127.0.0.1:42531
+1638308748405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePWT7er"
+1638308749345	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePWT7er/search.json.mozlz4", (void 0)))
+1638308750211	Marionette	INFO	Listening on port 39939
+1638308750323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638309068042	geckodriver	INFO	Listening on 127.0.0.1:45735
+1638309068043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFlKI4r"
+1638309068656	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFlKI4r/search.json.mozlz4", (void 0)))
+1638309069392	Marionette	INFO	Listening on port 42771
+1638309069455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638309359329	geckodriver	INFO	Listening on 127.0.0.1:39359
+1638309359331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLQG9Lj"
+1638309359945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLQG9Lj/search.json.mozlz4", (void 0)))
+1638309360774	Marionette	INFO	Listening on port 34915
+1638309360844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638309585870	Marionette	INFO	Stopped listening on port 34915
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638309587238	Marionette	INFO	Stopped listening on port 42771
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638309588397	Marionette	INFO	Stopped listening on port 39939
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638309589525	Marionette	INFO	Stopped listening on port 41825
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638310048001	geckodriver	INFO	Listening on 127.0.0.1:40017
+1638310049007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileesCEtt"
+1638310049585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileesCEtt/search.json.mozlz4", (void 0)))
+1638310050403	Marionette	INFO	Listening on port 45803
+1638310050421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+1638310188321	geckodriver	INFO	Listening on 127.0.0.1:53017
+1638310188323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZCjpMw"
+1638310188915	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZCjpMw/search.json.mozlz4", (void 0)))
+1638310189746	Marionette	INFO	Listening on port 44651
+1638310189837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+1638310284307	geckodriver	INFO	Listening on 127.0.0.1:47071
+1638310284310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee9hWC7"
+1638310284908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee9hWC7/search.json.mozlz4", (void 0)))
+1638310285740	Marionette	INFO	Listening on port 43579
+1638310285823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638356539063	Marionette	INFO	Stopped listening on port 43579
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638356540248	Marionette	INFO	Stopped listening on port 44651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638356541798	Marionette	INFO	Stopped listening on port 45803
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1639147206857	geckodriver	INFO	Listening on 127.0.0.1:53403
+1639147207862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileubeg6M"
+1639147208444	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileubeg6M/search.json.mozlz4", (void 0)))
+1639147209156	Marionette	INFO	Listening on port 33373
+1639147209179	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+1639147515138	geckodriver	INFO	Listening on 127.0.0.1:60791
+1639147515141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyni959"
+1639147515736	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyni959/search.json.mozlz4", (void 0)))
+1639147516483	Marionette	INFO	Listening on port 36715
+1639147517983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: https://app.simula.vecindario.com/ingresar, line 1: Error: Loading CSS chunk 19 failed.
+(/static/css/19.ec044663.chunk.css)
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: El proyecto debe estar activo
+1639148893438	geckodriver	INFO	Listening on 127.0.0.1:59077
+1639148893440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8asgqn"
+1639148894026	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8asgqn/search.json.mozlz4", (void 0)))
+1639148894732	Marionette	INFO	Listening on port 36297
+1639148894752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: El proyecto debe estar activo
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639151153519	geckodriver	INFO	Listening on 127.0.0.1:52119
+1639151153522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePXvVkU"
+1639151154088	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePXvVkU/search.json.mozlz4", (void 0)))
+1639151154849	Marionette	INFO	Listening on port 46079
+1639151154938	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: El proyecto debe estar activo
+1639151438675	geckodriver	INFO	Listening on 127.0.0.1:44127
+1639151438677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileobLXrB"
+1639151439256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileobLXrB/search.json.mozlz4", (void 0)))
+1639151440037	Marionette	INFO	Listening on port 40605
+1639151440094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: El proyecto debe estar activo
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639156952244	geckodriver	INFO	Listening on 127.0.0.1:42869
+1639156953250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVFe4fN"
+1639156953848	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVFe4fN/search.json.mozlz4", (void 0)))
+1639156954590	Marionette	INFO	Listening on port 35379
+1639156954668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: El proyecto debe estar activo
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: El proyecto debe estar activo
+JavaScript error: , line 0: uncaught exception: El proyecto debe estar activo
+1639157058750	Marionette	INFO	Stopped listening on port 35379
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639157067567	geckodriver	INFO	Listening on 127.0.0.1:43287
+1639157067569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVyMltn"
+1639157068139	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVyMltn/search.json.mozlz4", (void 0)))
+1639157068905	Marionette	INFO	Listening on port 42303
+1639157068987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: El proyecto debe estar activo
+1639157112951	Marionette	INFO	Stopped listening on port 40605
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1639157113947	Marionette	INFO	Stopped listening on port 42303
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639157115463	Marionette	INFO	Stopped listening on port 46079
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639157116560	Marionette	INFO	Stopped listening on port 36297
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Gdk-Message: 18:46:42.863: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1641987931478	geckodriver	INFO	Listening on 127.0.0.1:33115
+1641987932482	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTut9Lc"
+1641987933083	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTut9Lc/search.json.mozlz4", (void 0)))
+1641987933911	Marionette	INFO	Listening on port 37441
+1641987933998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+1641987940266	Marionette	INFO	Stopped listening on port 37441
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642441136535	geckodriver	INFO	Listening on 127.0.0.1:34913
+1642441137538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley3i1TF"
+1642441138128	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley3i1TF/search.json.mozlz4", (void 0)))
+1642441138968	Marionette	INFO	Listening on port 37475
+1642441139062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.simula.vecindario.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://app.simula.vecindario.com/static/js/0.c6e86111.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1642443228044	Marionette	INFO	Stopped listening on port 37475
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1646338871039	geckodriver	INFO	Listening on 127.0.0.1:39739
+1646338872041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDeyiPc"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1646338872751	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDeyiPc/search.json.mozlz4", (void 0)))
+1646338873668	Marionette	INFO	Listening on port 35805
+1646338873757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+1646338976497	geckodriver	INFO	Listening on 127.0.0.1:44059
+1646338976499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezZULSO"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1646338977154	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezZULSO/search.json.mozlz4", (void 0)))
+1646338977982	Marionette	INFO	Listening on port 45157
+1646338978012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1646339341843	geckodriver	INFO	Listening on 127.0.0.1:58565
+1646339342848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg22QlU"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1646339343518	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileg22QlU/search.json.mozlz4", (void 0)))
+1646339344479	Marionette	INFO	Listening on port 35759
+1646339344564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1646339578564	Marionette	INFO	Stopped listening on port 45157
+1646339579654	Marionette	INFO	Stopped listening on port 35759
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1646339580858	Marionette	INFO	Stopped listening on port 35805
+1646339599884	geckodriver	INFO	Listening on 127.0.0.1:58039
+1646339599886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler3PJxQ"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1646339600534	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiler3PJxQ/search.json.mozlz4", (void 0)))
+1646339601408	Marionette	INFO	Listening on port 34455
+1646339602929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1646339659274	geckodriver	INFO	Listening on 127.0.0.1:33875
+1646339659276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDpQmLH"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1646339659939	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDpQmLH/search.json.mozlz4", (void 0)))
+1646339660852	Marionette	INFO	Listening on port 35109
+1646339660892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1646339841483	geckodriver	INFO	Listening on 127.0.0.1:42557
+1646339841485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHFjCAb"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+1646339842145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHFjCAb/search.json.mozlz4", (void 0)))
+1646339842935	Marionette	INFO	Listening on port 44657
+1646339843004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.8b1966bb.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1646344679546	Marionette	INFO	Stopped listening on port 35109
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Gdk-Message: 07:06:59.142: firefox: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1647026108117	geckodriver	INFO	Listening on 127.0.0.1:41857
+1647026109121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMTyJoV"
+1647026109753	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMTyJoV/search.json.mozlz4", (void 0)))
+1647026110929	Marionette	INFO	Listening on port 46219
+1647026111039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+1647026332042	geckodriver	INFO	Listening on 127.0.0.1:56777
+1647026332044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJfzkLi"
+1647026332555	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJfzkLi/search.json.mozlz4", (void 0)))
+1647026333661	Marionette	INFO	Listening on port 42913
+1647026333758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647026891931	geckodriver	INFO	Listening on 127.0.0.1:33857
+1647026892937	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaL46zs"
+1647026893513	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaL46zs/search.json.mozlz4", (void 0)))
+1647026894628	Marionette	INFO	Listening on port 38577
+1647026894649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647027121522	geckodriver	INFO	Listening on 127.0.0.1:36009
+1647027121523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei2EYfp"
+1647027122050	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei2EYfp/search.json.mozlz4", (void 0)))
+1647027123174	Marionette	INFO	Listening on port 38375
+1647027123237	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647027250562	geckodriver	INFO	Listening on 127.0.0.1:51597
+1647027250563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLBH7BP"
+1647027251058	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLBH7BP/search.json.mozlz4", (void 0)))
+1647027252173	Marionette	INFO	Listening on port 42365
+1647027252278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647027365623	geckodriver	INFO	Listening on 127.0.0.1:45541
+1647027365625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletdh7hn"
+1647027366128	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletdh7hn/search.json.mozlz4", (void 0)))
+1647027367232	Marionette	INFO	Listening on port 36655
+1647027367343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647027460047	geckodriver	INFO	Listening on 127.0.0.1:45101
+1647027460049	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoqB20b"
+1647027460559	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoqB20b/search.json.mozlz4", (void 0)))
+1647027461940	Marionette	INFO	Listening on port 36701
+1647027461965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647028113449	geckodriver	INFO	Listening on 127.0.0.1:46285
+1647028114453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTO84qn"
+1647028115062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTO84qn/search.json.mozlz4", (void 0)))
+1647028116224	Marionette	INFO	Listening on port 40003
+1647028116273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647028373974	Marionette	INFO	Stopped listening on port 46219
+1647028375435	Marionette	INFO	Stopped listening on port 42913
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647028377131	Marionette	INFO	Stopped listening on port 36655
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647028378696	Marionette	INFO	Stopped listening on port 36701
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647028380321	Marionette	INFO	Stopped listening on port 42365
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647028381902	Marionette	INFO	Stopped listening on port 38375
+1647028383258	Marionette	INFO	Stopped listening on port 38577
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647028384531	Marionette	INFO	Stopped listening on port 40003
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1647029151487	geckodriver	INFO	Listening on 127.0.0.1:50329
+1647029151489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS0jtVM"
+1647029151984	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS0jtVM/search.json.mozlz4", (void 0)))
+1647029152869	Marionette	INFO	Listening on port 38653
+1647029152900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.c2d43310.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+1647029190244	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+Gdk-Message: 07:41:46.518: firefox: Fatal IO error 2 (No such file or directory) on X server :1.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1647969359213	geckodriver	INFO	Listening on 127.0.0.1:38165
+1647969360218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGOM8sG"
+1647969360713	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGOM8sG/search.json.mozlz4", (void 0)))
+1647969361962	Marionette	INFO	Listening on port 45759
+1647969362039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+1647969520323	geckodriver	INFO	Listening on 127.0.0.1:52269
+1647969520325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile12KTJY"
+1647969520766	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile12KTJY/search.json.mozlz4", (void 0)))
+1647969522088	Marionette	INFO	Listening on port 38919
+1647969522138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+1647969559779	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647969954772	geckodriver	INFO	Listening on 127.0.0.1:60215
+1647969954774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecEolqk"
+1647969955207	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecEolqk/search.json.mozlz4", (void 0)))
+1647969956377	Marionette	INFO	Listening on port 35315
+1647969956390	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+1647969993519	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647970307432	geckodriver	INFO	Listening on 127.0.0.1:44141
+1647970308439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR27yOu"
+1647970308908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR27yOu/search.json.mozlz4", (void 0)))
+1647970310084	Marionette	INFO	Listening on port 33917
+1647970310153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+1647970347380	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647970445535	geckodriver	INFO	Listening on 127.0.0.1:34439
+1647970445537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehSPxqV"
+1647970445960	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehSPxqV/search.json.mozlz4", (void 0)))
+1647970447080	Marionette	INFO	Listening on port 36371
+1647970447151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+1647970484421	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647970532533	Marionette	INFO	Stopped listening on port 33917
+1647970533950	Marionette	INFO	Stopped listening on port 35315
+1647970535513	Marionette	INFO	Stopped listening on port 38919
+1647970536798	Marionette	INFO	Stopped listening on port 45759
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647970629181	geckodriver	INFO	Listening on 127.0.0.1:60147
+1647970629183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletHyIsh"
+1647970629624	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletHyIsh/search.json.mozlz4", (void 0)))
+1647970630450	Marionette	INFO	Listening on port 38819
+1647970630497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+1647970667531	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647970815543	geckodriver	INFO	Listening on 127.0.0.1:59053
+1647970815545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1E7hgV"
+1647970815986	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1E7hgV/search.json.mozlz4", (void 0)))
+1647970816817	Marionette	INFO	Listening on port 37473
+1647970816858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+1647970854548	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647970947876	Marionette	INFO	Stopped listening on port 37473
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647970948936	Marionette	INFO	Stopped listening on port 38819
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647970982848	geckodriver	INFO	Listening on 127.0.0.1:37695
+1647970982850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePqFCSi"
+1647970983289	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePqFCSi/search.json.mozlz4", (void 0)))
+1647970984138	Marionette	INFO	Listening on port 37009
+1647970984163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+1647971021139	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647971369469	geckodriver	INFO	Listening on 127.0.0.1:36009
+1647971369470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKnZ6kI"
+1647971369916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKnZ6kI/search.json.mozlz4", (void 0)))
+1647971370683	Marionette	INFO	Listening on port 40921
+1647971370783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+1647971407702	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647971495072	geckodriver	INFO	Listening on 127.0.0.1:60867
+1647971495074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXVkvx1"
+1647971495530	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXVkvx1/search.json.mozlz4", (void 0)))
+1647971496404	Marionette	INFO	Listening on port 39521
+1647971496492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+1647971533815	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1647971605857	Marionette	INFO	Stopped listening on port 36371
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647971607191	Marionette	INFO	Stopped listening on port 37009
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647971890105	geckodriver	INFO	Listening on 127.0.0.1:49357
+1647971890106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile44oLSz"
+1647971890539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile44oLSz/search.json.mozlz4", (void 0)))
+1647971891276	Marionette	INFO	Listening on port 39093
+1647971891319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+1647971928573	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647978929729	geckodriver	INFO	Listening on 127.0.0.1:42239
+1647978930731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKxbqUh"
+1647978931264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKxbqUh/search.json.mozlz4", (void 0)))
+1647978931969	Marionette	INFO	Listening on port 40599
+1647978932044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+1647978969552	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1647979088840	Marionette	INFO	Stopped listening on port 40921
+1647982450224	Marionette	INFO	Stopped listening on port 39521
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1647982487350	geckodriver	INFO	Listening on 127.0.0.1:44451
+1647982487352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR2zJkr"
+1647982487789	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR2zJkr/search.json.mozlz4", (void 0)))
+1647982488512	Marionette	INFO	Listening on port 41051
+1647982488564	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://pruebas.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+1647982526146	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://pruebas.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648029963808	geckodriver	INFO	Listening on 127.0.0.1:53887
+1648029964813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGqFuMA"
+1648029965375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGqFuMA/search.json.mozlz4", (void 0)))
+1648029966176	Marionette	INFO	Listening on port 46575
+1648029966228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648030033004	geckodriver	INFO	Listening on 127.0.0.1:48149
+1648030033006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGpmVtt"
+1648030033433	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGpmVtt/search.json.mozlz4", (void 0)))
+1648030034461	Marionette	INFO	Listening on port 38961
+1648030034518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+1648030155807	geckodriver	INFO	Listening on 127.0.0.1:49147
+1648030155809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileko1Aie"
+1648030156220	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileko1Aie/search.json.mozlz4", (void 0)))
+1648030156961	Marionette	INFO	Listening on port 45113
+1648030157021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+1648030264121	geckodriver	INFO	Listening on 127.0.0.1:37735
+1648030264123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJUHslN"
+1648030264554	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJUHslN/search.json.mozlz4", (void 0)))
+1648030265395	Marionette	INFO	Listening on port 43857
+1648030265434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+1648030303147	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.854ef3aa.chunk.js, line 2: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: El proyecto debe estar activo
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1648064078492	Marionette	INFO	Stopped listening on port 38961
+1648064080229	Marionette	INFO	Stopped listening on port 46575
+1648064081783	Marionette	INFO	Stopped listening on port 45113
+1648064082977	Marionette	INFO	Stopped listening on port 43857
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1653239830956	geckodriver	INFO	Listening on 127.0.0.1:40999
+1653239831959	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletyKj5S"
+1653239832519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletyKj5S/search.json.mozlz4", (void 0)))
+1653239833433	Marionette	INFO	Listening on port 35891
+1653239833473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.48ce6abe.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.48ce6abe.chunk.js, line 2: unreachable code after return statement
+JavaScript warning: https://develop.app.simula.vecindario.com/static/js/0.48ce6abe.chunk.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: , line 0: uncaught exception: No se encontro el proyecto
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://develop.app.simula.vecindario.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: , line 0: NotFoundError: Could not get children of file(/tmp/rust_mozprofiletyKj5S/settings/main/ms-images) because it does not exist
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+1653261406224	Marionette	INFO	Stopped listening on port 35891
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo

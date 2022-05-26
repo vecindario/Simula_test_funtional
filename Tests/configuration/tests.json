@@ -1,0 +1,28 @@
+{
+  "tests": {
+    "ext_simulation": {
+      "test": [
+        {
+          "name": "Simulacion externa",
+          "browser": "chrome",
+          "path": "https://develop.app.simula.vecindario.com/preview/vecindario-living",
+          "type": "Type A",
+          "sleep": 2,
+          "data": {
+            "name": "Mariana Test",
+            "lastName": "Vecindario Test",
+            "idUser": "1030605587",
+            "cell" : "3132991213",
+            "email": "qa.testing@vecindario.com",
+            "custom": "acabado",
+            "parking": "3000000",
+            "room": "45000000",
+            "subsidy": "230000000",
+            "subsidyFamily": "2000000",
+            "cesan" : "18000000"
+          }
+        }
+      ]
+    }
+  }
+}
